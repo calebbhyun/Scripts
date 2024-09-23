@@ -3,8 +3,8 @@
 # Author: Caleb Bhyun
 
 # Create a list of shares in a format like:
-# \\HOST\SHARE1
-# \\HOST\SHARE2
+# \\HOSTNAME\SHARE1
+# \\HOSTNAME\SHARE2
 # ...
 
 # ./forced_authentication_clean_up.sh 'FQDN/USERNAME' 'PASSWORD' FILENAME
